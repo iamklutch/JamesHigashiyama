@@ -23,13 +23,10 @@
 <img align="left" alt="HTML5" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="46px" style='padding: 10px 10px 0 0' src="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019" />
-
-<!-- <img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://img.icons8.com/color/48/000000/nodejs.png" /> -->
-
-
+<!-- <img align="left" alt="VSCode" width="46px" style='padding: 10px 10px 0 0' src="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019" />
 <img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://icons8.com/icon/vgMoO3QkEnKf/visual-basic"/>
+<img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://img.icons8.com/color/48/000000/nodejs.png" /> -->
 
 <img align="left" alt="AWS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
